@@ -1,0 +1,7 @@
+Tamás;16							
+Zoli;17							
+Niko;18							
+Karcsi;15							
+Ricsi;17							
+Feri;19							
+
